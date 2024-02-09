@@ -1,1 +1,1 @@
-Arquivo de informação
+Este arquivo indica informações do projeto
